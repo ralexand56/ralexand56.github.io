@@ -1,0 +1,23 @@
+[
+  { "id": "B", "name": "Bank", "sort": 10 },
+  {
+    "id": "C",
+    "name": "Credit Union",
+    "sort": 20
+  },
+  {
+    "id": "S",
+    "name": "S & L",
+    "sort": 30
+  },
+  {
+    "id": "R",
+    "name": "Brokerage",
+    "sort": 40
+  },
+  {
+    "id": "I",
+    "name": "Internet",
+    "sort": 50
+  }
+]
