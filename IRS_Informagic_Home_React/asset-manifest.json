@@ -1,8 +1,13 @@
 {
   "main.css": "static/css/main.17959b0e.css",
   "main.css.map": "static/css/main.17959b0e.css.map",
+<<<<<<< HEAD
   "main.js": "static/js/main.beca8346.js",
   "main.js.map": "static/js/main.beca8346.js.map",
+=======
+  "main.js": "static/js/main.d3b848cd.js",
+  "main.js.map": "static/js/main.d3b848cd.js.map",
+>>>>>>> 7bce1914e6ecace8082e97aeb0f223bc243a87ce
   "static\\media\\4.png": "static/media/4.dd77cc9a.png",
   "static\\media\\avatar_all.png": "static/media/avatar_all.c5a509ac.png",
   "static\\media\\color.png": "static/media/color.c7a33805.png",
