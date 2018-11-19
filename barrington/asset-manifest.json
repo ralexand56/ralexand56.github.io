@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.7b1d3aff.chunk.css",
-  "main.js": "/static/js/main.73079332.chunk.js",
-  "main.js.map": "/static/js/main.73079332.chunk.js.map",
-  "static/js/1.69208c64.chunk.js": "/static/js/1.69208c64.chunk.js",
-  "static/js/1.69208c64.chunk.js.map": "/static/js/1.69208c64.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.7b1d3aff.chunk.css.map": "/static/css/main.7b1d3aff.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.667f8ced50409291444a3971702afbae.js": "/precache-manifest.667f8ced50409291444a3971702afbae.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/barrington/static/css/main.7b1d3aff.chunk.css",
+  "main.js": "/barrington/static/js/main.b72a2495.chunk.js",
+  "main.js.map": "/barrington/static/js/main.b72a2495.chunk.js.map",
+  "static/js/1.b73496d0.chunk.js": "/barrington/static/js/1.b73496d0.chunk.js",
+  "static/js/1.b73496d0.chunk.js.map": "/barrington/static/js/1.b73496d0.chunk.js.map",
+  "runtime~main.js": "/barrington/static/js/runtime~main.ef00f098.js",
+  "runtime~main.js.map": "/barrington/static/js/runtime~main.ef00f098.js.map",
+  "static/css/main.7b1d3aff.chunk.css.map": "/barrington/static/css/main.7b1d3aff.chunk.css.map",
+  "index.html": "/barrington/index.html",
+  "precache-manifest.d6b9443417d468e416887f3de30ac80c.js": "/barrington/precache-manifest.d6b9443417d468e416887f3de30ac80c.js",
+  "service-worker.js": "/barrington/service-worker.js"
 }
