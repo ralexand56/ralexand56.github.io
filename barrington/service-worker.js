@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/barrington/precache-manifest.d6b9443417d468e416887f3de30ac80c.js"
+  "/barrington/precache-manifest.656ebc72bf2022f94fb08605125554e6.js"
 );
 
 workbox.clientsClaim();
