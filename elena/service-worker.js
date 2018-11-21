@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/elena/precache-manifest.4764fbeacd6c82f45ad2c0f605bffba1.js"
+  "/elena/precache-manifest.5b64ee781a2a53898303699674f7400e.js"
 );
 
 workbox.clientsClaim();
