@@ -1,13 +1,13 @@
 {
-  "main.css": "/elena/static/css/main.c206bdfb.chunk.css",
-  "main.js": "/elena/static/js/main.7c7657d4.chunk.js",
-  "main.js.map": "/elena/static/js/main.7c7657d4.chunk.js.map",
+  "main.css": "/elena/static/css/main.4a18f9f1.chunk.css",
+  "main.js": "/elena/static/js/main.6fcd980d.chunk.js",
+  "main.js.map": "/elena/static/js/main.6fcd980d.chunk.js.map",
   "static/js/1.2f07e14e.chunk.js": "/elena/static/js/1.2f07e14e.chunk.js",
   "static/js/1.2f07e14e.chunk.js.map": "/elena/static/js/1.2f07e14e.chunk.js.map",
   "runtime~main.js": "/elena/static/js/runtime~main.8483fdd1.js",
   "runtime~main.js.map": "/elena/static/js/runtime~main.8483fdd1.js.map",
-  "static/css/main.c206bdfb.chunk.css.map": "/elena/static/css/main.c206bdfb.chunk.css.map",
+  "static/css/main.4a18f9f1.chunk.css.map": "/elena/static/css/main.4a18f9f1.chunk.css.map",
   "index.html": "/elena/index.html",
-  "precache-manifest.91e8340ca496fed3c85b5cab85f3de28.js": "/elena/precache-manifest.91e8340ca496fed3c85b5cab85f3de28.js",
+  "precache-manifest.662e94ab1f11dfd64898b2be2eac9351.js": "/elena/precache-manifest.662e94ab1f11dfd64898b2be2eac9351.js",
   "service-worker.js": "/elena/service-worker.js"
 }
